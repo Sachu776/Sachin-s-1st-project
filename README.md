@@ -1,2 +1,2 @@
-# Sachin-s-1st-project
+# Sachin-1st-project
 hey buddy
